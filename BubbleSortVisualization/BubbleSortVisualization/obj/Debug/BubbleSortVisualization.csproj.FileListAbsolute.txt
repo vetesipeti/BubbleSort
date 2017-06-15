@@ -1,0 +1,9 @@
+E:\codecool\cs-tw1\bubbleSort\BubbleSortVisualization\BubbleSortVisualization\bin\Debug\BubbleSortVisualization.exe.config
+E:\codecool\cs-tw1\bubbleSort\BubbleSortVisualization\BubbleSortVisualization\bin\Debug\BubbleSortVisualization.exe
+E:\codecool\cs-tw1\bubbleSort\BubbleSortVisualization\BubbleSortVisualization\bin\Debug\BubbleSortVisualization.pdb
+E:\codecool\cs-tw1\bubbleSort\BubbleSortVisualization\BubbleSortVisualization\obj\Debug\BubbleSortVisualization.csprojResolveAssemblyReference.cache
+E:\codecool\cs-tw1\bubbleSort\BubbleSortVisualization\BubbleSortVisualization\obj\Debug\BubbleSortVisualization.Form1.resources
+E:\codecool\cs-tw1\bubbleSort\BubbleSortVisualization\BubbleSortVisualization\obj\Debug\BubbleSortVisualization.Properties.Resources.resources
+E:\codecool\cs-tw1\bubbleSort\BubbleSortVisualization\BubbleSortVisualization\obj\Debug\BubbleSortVisualization.csproj.GenerateResource.Cache
+E:\codecool\cs-tw1\bubbleSort\BubbleSortVisualization\BubbleSortVisualization\obj\Debug\BubbleSortVisualization.exe
+E:\codecool\cs-tw1\bubbleSort\BubbleSortVisualization\BubbleSortVisualization\obj\Debug\BubbleSortVisualization.pdb
